@@ -2,4 +2,4 @@
 
 **Name: GitHub Student
 
-**Favorite Color: **  Blue
+**Favorite Color: **  Blue and white
