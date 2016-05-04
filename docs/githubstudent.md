@@ -7,3 +7,6 @@
 **Occupation:** Engineer
 
 **Current City:** Bellingham
+
+**Favorite Food:** Sushi
+
